@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 쿼드 트리
-description :
+description : 재귀, 분할정복
 """
 
 import sys
