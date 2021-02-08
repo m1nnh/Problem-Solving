@@ -5,7 +5,7 @@ e-mail : alsgur9784@naver.com
 
 
 title : 미래도시
-description : 다익스트라
+description : 플로이드 워셜
 """
 
 N, M = map(int, input().split())
