@@ -1,6 +1,8 @@
 """
+author : Park Min Hyeok
 github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
+
 
 title : 효율적인 화폐 구성
 description : 다이나믹 프로그래밍

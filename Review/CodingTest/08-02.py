@@ -1,6 +1,8 @@
 """
+author : Park Min Hyeok
 github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
+
 
 title : 피보나치 함수 소스코드
 description : 다이나믹 프로그래밍
