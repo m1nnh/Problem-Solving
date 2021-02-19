@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 주사위 세개
-description : 수학, 사칙연
+description : 수학, 사칙연산
 """
 
 a, b, c = map(int, input().split())
@@ -19,5 +19,3 @@ elif b == c:
     print(1000 + b * 100)
 else:
     print(100 * max(a, b, c))
-
-
