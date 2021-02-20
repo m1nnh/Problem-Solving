@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 벌집
-description : 수
+description : 수학
 """
 
 n = int(input())

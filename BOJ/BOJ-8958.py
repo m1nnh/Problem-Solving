@@ -13,8 +13,8 @@ for i in range(test_num):
     score, count = 0, 0
     string = input()
 
-    for ox in string :
-        if ox=='O':
+    for ox in string:
+        if ox == 'O':
             count += 1
         else:
             count = 0
