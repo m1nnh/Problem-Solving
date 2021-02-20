@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 팩토리얼 0의 개수
-description :
+description : 수학, 임의 정밀도/ 큰 수 연산
 """
 
 
