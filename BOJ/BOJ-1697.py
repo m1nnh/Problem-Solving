@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 숨바꼭질
-description : 수학, 임의 정밀도/ 큰 수 연산
+description : 그래프 이론, 그래프 탐색, 너비 우선 탐색
 """
 
 from collections import deque
