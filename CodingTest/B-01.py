@@ -1,3 +1,12 @@
+"""
+author : Park Min Hyeok
+github : https://github.com/m1nnh
+e-mail : alsgur9784@naver.com
+
+title : 소수 구하기
+M 이상 N 이하의 소수를 모두 출력하는 프로그램을 작성하시오.
+"""
+
 import math
 
 M, N = map(int, input().split())
