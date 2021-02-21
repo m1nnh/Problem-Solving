@@ -7,7 +7,6 @@ title : ASCII code
 description : Implementation
 """
 
-a=input()
+a = input()
 
 print(ord(a))
-

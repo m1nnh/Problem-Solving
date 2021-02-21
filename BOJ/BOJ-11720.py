@@ -7,9 +7,9 @@ title : Sum
 description : Math
 """
 
-n=int(input())
-m=input()
-sum=0
+n = int(input())
+m = input()
+sum = 0
 for i in m:
-    sum +=int(i)
+    sum += int(i)
 print(sum)

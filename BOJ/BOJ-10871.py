@@ -7,9 +7,9 @@ title : Number less tha x
 description : Math
 """
 
-n, x = map(int,input().split())
-n_list = list(map(int,input().split()))
+n, x = map(int, input().split())
+n_list = list(map(int, input().split()))
 
 for i in n_list:
-    if x>i :
-        print(i,end=' ')
+    if x > i:
+        print(i, end=' ')
