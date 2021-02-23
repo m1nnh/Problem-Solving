@@ -12,7 +12,7 @@
 
 - :pencil2: CodingTest
     
-    - [이것이 코딩테스트이다/CodingTest](https://github.com/m1nnh/Solved-the-problem/tree/master/CodingTest)
+    - [이것이 코딩테스트다/CodingTest](https://github.com/m1nnh/Solved-the-problem/tree/master/CodingTest)
 
 - :pencil2: DoItJumpToPython
 
