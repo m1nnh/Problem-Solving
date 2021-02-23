@@ -1,5 +1,4 @@
-## 💻 Let's solve the problem every day
-For my coding test
+## 💻 Let's solve the problem every day for my coding test
 
 ### 📂 Directory
 
