@@ -10,13 +10,13 @@
 
     - [코드업/CodeUp](https://github.com/m1nnh/Solved-the-problem/tree/master/CodeUp)
 
-- :pencil2: DoItJumpToPython
-
-    - [두잇점프투파이썬/DoItJumpToPython](https://github.com/m1nnh/Solved-the-problem/tree/master/DoItJumpToPython)
-
 - :pencil2: CodingTest
     
     - [이것이 코딩테스트이다/CodingTest](https://github.com/m1nnh/Solved-the-problem/tree/master/CodingTest)
+
+- :pencil2: DoItJumpToPython
+
+    - [두잇점프투파이썬/DoItJumpToPython](https://github.com/m1nnh/Solved-the-problem/tree/master/DoItJumpToPython)
 
 
 ### :memo: Let's resolve the problem!
