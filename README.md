@@ -16,4 +16,4 @@
 
 ### :memo: Let's resolve the problem!
 
-- :pencil2: [Wiki](https://github.com/m1nnh/Solved-the-problem/wiki)
+- :pencil2: [Wiki](https://github.com/m1nnh/Solved-the-problem/wiki/Let's-Resolve-the-problem)
