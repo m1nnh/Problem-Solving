@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 마인크래프트
-description :
+description : 구현, 브루트포스 알고리즘
 """
 
 import sys
