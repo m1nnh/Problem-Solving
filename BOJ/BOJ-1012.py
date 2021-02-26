@@ -11,7 +11,6 @@ import sys
 
 sys.setrecursionlimit(int(1e9))
 
-
 def dfs(x, y):
     if x < 0 or x >= N or y < 0 or y >= M:
         return False
