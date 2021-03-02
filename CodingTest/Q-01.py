@@ -13,3 +13,16 @@ title : 모험가 길드
 
 description : 그리디 알고리즘
 """
+
+import sys
+
+N = int(sys.stdin.readline().rstrip())
+X = list(map(int, sys.stdin.readline().rstrip().split()))
+
+total = 0
+X.sort()
+
+for i in set(X):
+    if X.count(i) >= i:
+        total += 1
+print(total)
