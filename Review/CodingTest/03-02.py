@@ -12,10 +12,11 @@ Array = list(map(int, input().split()))
 Result = 0
 
 Array.sort(reverse=True)
-for i in range(M):
-    if i == 0 or i % K != 0:
-        Result += Array[0]
-    else:
-        Result += Array[1]
+
+count = (M // (K + 1)) * K
+count += M % (K + 1)
+
+Result += Array[0] * count
+Result += (M - count) * Array[1]
 
 print(Result)
