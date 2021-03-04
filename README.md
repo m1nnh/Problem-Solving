@@ -20,7 +20,7 @@
 
 - :pencil2: Review
 
-    - [Review Lesson]()
+    - [Review Lesson](https://github.com/m1nnh/Solved-the-problem/tree/master/Review)
 
 
 ### :memo: Let's resolve the problem!
