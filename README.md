@@ -18,6 +18,10 @@
 
     - [두잇점프투파이썬/DoItJumpToPython](https://github.com/m1nnh/Solved-the-problem/tree/master/DoItJumpToPython)
 
+- :pencil2: Review
+
+    - [Review Lesson]()
+
 
 ### :memo: Let's resolve the problem!
 
