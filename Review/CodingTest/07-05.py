@@ -34,4 +34,3 @@ for i in B:
         print('yes', end=' ')
     else:
         print('no', end=' ')
-        
