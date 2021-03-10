@@ -14,9 +14,15 @@ dp = [0] * N
 for _ in range(N):
     Stairs.append(int(input()))
 
-dp[0] = Stairs[0]
-dp[1] = max(dp[0] + Stairs[1], Stairs[1])
-dp[2] = max(dp[0] + Stairs[2], Stairs[1] + Stairs[2])
+if N == 1:
+    dp[0] = Stairs[0]
+elif N == 2:
+    dp[0] = Stairs[0]
+    dp[1] = max(dp[0] + Stairs[1], Stairs[1])
+else:
+    dp[0] = Stairs[0]
+    dp[1] = max(dp[0] + Stairs[1], Stairs[1])
+    dp[2] = max(dp[0] + Stairs[2], Stairs[1] + Stairs[2])
 
 for i in range(3, N):
     dp[i] = max(dp[i - 2] + Stairs[i], dp[i - 3] + Stairs[i - 1] + Stairs[i])
