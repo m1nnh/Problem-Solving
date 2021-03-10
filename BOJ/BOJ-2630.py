@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 색종이 만들기
-description :
+description : 재귀함수, 분할정복
 """
 
 
