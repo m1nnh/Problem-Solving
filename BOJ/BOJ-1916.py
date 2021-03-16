@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 최소비용 구하기
-description :
+description : 다익스트라
 """
 
 import heapq
