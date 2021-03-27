@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 제곱 ㄴㄴ수
-description : 정렬
+description : 에라토스테네스의 체
 """
 
 import math
