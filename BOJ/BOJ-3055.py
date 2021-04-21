@@ -4,7 +4,7 @@ github : https://github.com/m1nnh
 e-mail : alsgur9784@naver.com
 
 title : 탈출
-description :
+description : BFS
 """
 
 from collections import deque
@@ -27,6 +27,7 @@ def BFS(water_position, hedgehog_position):
     while hedgehog_queue:
         now_cost, now_hedgehog_y, now_hedgehog_x = hedgehog_queue.popleft()
         length = len(water_queue)
+
         if now <= now_cost:
             for _ in range(length):
                 now_water_y, now_water_x = water_queue.popleft()
