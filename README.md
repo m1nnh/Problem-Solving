@@ -14,7 +14,15 @@
 
     - [코드업/CodeUp - Python](https://github.com/m1nnh/Problem-Solving/tree/master/Python/CodeUp)
 
+- :pencil2: Java
+
     - [코드업/CodeUp - Java](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Code-Up)
+    
+    - [Live-Study](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Live-Study)
+        - [Main](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Live-Study/java)
+        - [Test](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Live-Study/test)
+
+       
 
 - :pencil2: CodingTest
     
