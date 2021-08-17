@@ -7,7 +7,6 @@ title : 섬 연결하기
 description : 크루스칼 알고리즘
 """
 
-
 def find_parent(parent, x):
     if parent[x] != x:
         parent[x] = find_parent(parent, parent[x])
