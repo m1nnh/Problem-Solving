@@ -33,3 +33,6 @@ def dfs(queen, n, row):
 def solution(n):
     answer = dfs([0] * n, n, 0)
     return answer
+
+if __name__ == "__main__":
+    solution(4)
