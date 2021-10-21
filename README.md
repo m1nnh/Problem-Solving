@@ -1,5 +1,18 @@
 ## 💻 Let's solve the problem every day for my coding test
 
+### ✅ Role
+
+- 파일
+    - 백준 : BOJ-[문제번호]
+    - 프로그래머스 : 문제명
+- commit message
+
+```
+Add: 파일 추가
+Update: 파일 내용 변경
+Remove: 파일 삭제
+```
+
 ### 📂 Directory
 
 - :pencil2: BOJ
@@ -10,30 +23,3 @@
 
     - [프로그래머스/Programmers - Python](https://github.com/m1nnh/Problem-Solving/tree/master/Programmers)
 
-- :pencil2: CodeUp
-
-    - [코드업/CodeUp - Python](https://github.com/m1nnh/Problem-Solving/tree/master/Python/CodeUp)
-
-- :pencil2: Java
-
-    - [코드업/CodeUp - Java](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Code-Up)
-    
-    - [Live-Study](https://github.com/m1nnh/Problem-Solving/tree/master/Java/Live-Study)
-
-
-- :pencil2: CodingTest
-    
-    - [이것이 코딩테스트다/CodingTest - Python](https://github.com/m1nnh/Problem-Solving/tree/master/Python/CodingTest)
-
-- :pencil2: DoItJumpToPython
-
-    - [두잇점프투파이썬/DoItJumpToPython](https://github.com/m1nnh/Problem-Solving/tree/master/Python/DoItJumpToPython)
-
-- :pencil2: Review
-
-    - [Review Lesson](https://github.com/m1nnh/Problem-Solving/tree/master/Review)
-
-
-### :memo: Let's resolve the problem!
-
-- :pencil2: [Wiki](https://github.com/m1nnh/Problem-Solving/wiki/Let's-Resolve-the-problem)
