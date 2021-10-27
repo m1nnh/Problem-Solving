@@ -8,14 +8,16 @@ title : 거스름돈
 description : Greedy
 """
 
-N = int(input())
-dp = [int(1e9)] * 100001
-dp[2] = 1
-dp[5] = 1
 
-for i in range(6, N + 1):
-    dp[i] = min(dp[i - 2] + 1, dp[i - 5] + 1)
-if dp[N] >= int(1e9):
-    print(-1)
-else:
-    print(dp[N])
+def solution(n):
+    if n in [1, 3]:
+        return -1
+    if (n % 5) % 2 == 0:
+        return n // 5 + (n % 5) // 2
+    else:
+        return ((n // 5) - 1) + ((n % 5 + 5) // 2)
+
+
+if __name__ == "__main__":
+    n = int(input())
+    print(solution(n))
